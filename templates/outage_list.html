@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="row-fluid">
+    <div class='span8'><h2> Outages </h2></div>
+    <div class='span4'><form class="form-search pull-right" action="{{url_for('outage_serach_form') }}" method=post>
+        <input type="text" name="search_string" class="input-medium search-query">
+        <button type="submit" class="btn">Search</button>
+    </form></div>
+</div>
+<div class="row-fluid">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Provider</th>
+                <th>Ref #</th>
+                <th>Start</th>
+                <th>End</th>
+                <th>Customers Affected</th>
+                <th>Checked</th>
+                <th>Important</th>
+                <th>Parser Issues</th>
+                <th>Details</th>
+        </thead>
+      <tbody>
+        {% for outage in outages%}
+          <tr>
+              <td>{{outage.provider}}</td>
+              <td>{{outage.provider_reference}}</td>
+              <td>{{outage.start_time}}</td>
+              <td>{{outage.end_time}}</td>
+              <td>{{outage.num_affected}} {%if outage.our_affected %} ({{outage.our_affected}}) {% endif %} <i class="icon-user"></i> </td>
+              <td>{% if outage.checked %} <i class="icon-ok"></i> {% endif %} </td>
+              <td>{% if outage.flagged %} <i class="icon-flag"></i> {% endif %} </td>
+              <td>{% if outage.issues %}<i class="icon-question-sign"></i> {% endif %} </td>
+              <td> <a href="{{url_for('outage_detail', outage_id=outage.id)}}"> 
+                      <i class="icon-file"></i></a>
+              </td> 
+          </tr>
+        {% endfor %}
+      </tbody>
+  </table>
+</div>
+{% block paginator %}
+<div class="row-fluid">
+    <div class="pagination pagination-right">
+        <ul>
+            <li {% if page_number - 1 < 1 %} class="disabled"><a href="#"><i
+                    class="icon-chevron-left"></i></a> {% else %}><a href="{{ url_for('outage_list',
+                page_number=page_number - 1)}}"><i
+                    class="icon-chevron-left"></i></a>{% endif %}</li>
+
+            {% if page_number - 2 > 0 %}<li><a href="{{ url_for('outage_list',
+                page_number=page_number - 2)}}">{{page_number - 2}}</a></li>{% endif %}
+
+            {% if page_number - 1 > 0 %}<li><a href="{{ url_for('outage_list',
+                page_number=page_number - 1)}}">{{page_number - 1}}</a></li>{% endif %}
+
+            <li class="active"><a href="#">{{page_number}}</a></li>
+
+            <li><a href="{{ url_for('outage_list',
+                page_number=page_number + 1)}}">{{page_number + 1}}</a></li>
+
+            <li><a href="{{ url_for('outage_list',
+                page_number=page_number + 2)}}">{{page_number + 2}}</a></li>
+
+            {% if not page_number - 2 > 0 %}<li><a href="{{ url_for('outage_list',
+                page_number=page_number + 3)}}">{{page_number + 3}}</a></li>{% endif %}
+
+            {% if not page_number - 1 > 0 %}<li><a href="{{ url_for('outage_list',
+                page_number=page_number + 4)}}">{{page_number + 4}}</a></li>{% endif %}
+
+            <li><a href="{{ url_for('outage_list',
+                page_number=page_number + 1)}}"><i class="icon-chevron-right"></i></a></li>
+        </ul>
+    </div>
+</div>
+{% endblock paginator %}
+{% endblock content %}

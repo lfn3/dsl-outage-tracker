@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% block content %}
+<form class="form-inline" action="{{url_for('outage_create') }}" method=post>
+    <select class="input-small" name="provider">
+        {% for provider in providers %}
+        <option> {{ provider }} </option>
+        {% endfor %}
+    </select>
+    <label> Provider Ref
+        <input class="input-medium" name="provider_reference"/>
+    </label>
+    <label> # Affected
+        <input class="input-mini" name="num_affected" type="text"/>
+    </label>
+    <label> Begins
+        <input class="input-medium" name="start_datetime" type="text"/>
+    </label>
+    <label> Ends
+        <input class="input-medium" name="end_datetime" type="text"/>
+    </label>
+    <label> Checked
+        <input name="checked", type="checkbox"/>
+    </label>
+    <label> Flagged 
+        <input name="flagged", type="checkbox"/> 
+    </label>
+    <label> Equipment Affected
+        <textarea name="equipment"></textarea>
+    </label>
+    <h3> Full Text </h3>
+    <textarea name="full_text"></textarea>
+    <div class="form-actions">
+        <button type="submit" class="btn btn-primary"> Save Changes </button>
+        <button type="reset" class="btn"> Reset </button>
+    </div>
+</form>
+{% endblock content %}

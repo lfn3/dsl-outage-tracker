@@ -1,0 +1,29 @@
+<h2>Outages</h2>
+{% if outages %}
+<table class="table table-striped"> 
+  <tbody>
+    {% for outage in outages%}
+    {% if outage.users %}
+    <tr {% if outage.flagged %} class="warning" {% endif %}>
+        <td><abbr title="{{outage.provider}}"><strong>{{outage.provider|first}}</strong></abbr></td>
+        <td>{{outage.end_time}} <i class="icon-time"></i></td>
+        <td><i class="icon-user pull-right"></i>
+        <td> <ul class="unstyled">
+          {% for user in outage.users %}
+          <li>{{ user.phone_number }} </li>
+          {% endfor %}
+        </ul></td>
+        <td> <a
+            href="{{url_for('outage_detail', outage_id=outage.id)}}"> <i
+              class="icon-file"></i></a></td> 
+    </tr>
+    {% endif %}
+    {% endfor %}
+  </tbody>
+</table>
+{% else %}
+  <p class="well">
+    Looks like there's nothing wrong.
+  </p>
+{%endif%}
+<a class="btn" href="{{url_for('outage_list')}}"><i class="icon-list"></i> List All</a>

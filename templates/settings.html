@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="row-fluid">
+    <form action="{{ url_for('settings_edit') }}" method=post class="form">
+        <textarea name="settings" class="span12 input-xlarge" rows=40>{{settings}}</textarea>
+        <div class="form-actions">
+            <button type="submit" class="btn btn-primary"> Save </button>
+            <button type="reset" class="btn"> Revert </button>
+            <a href="{{ url_for('settings_reload') }}" class="btn btn-warning pull-right"> Reload Config </a>
+        </div>
+    </form>
+</div>
+{% endblock content %}

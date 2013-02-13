@@ -1,0 +1,1919 @@
+Member Phone No,ActSpeedDS,ActSpeedUS,ActAvgDaySpontResyncs,ActDSLStability,ActDSLConnType,DSLAMName,LWC,Urbanistion,UBAForecast,EstAttn160Hi,EstAttn160Lo,EstDSSpeedHi,EstDSSpeedLo,EstUSSpeedHi,EstUSSpeedLo,EUBA,BUBA,WVS,LAPRestriction,CabnietisationDate,CabnetisationName,Locality Id,Connector Id,Line_Sharing_Cable_Pair,LWC_Is_Cabinet,BUBA_Coverage_Area,EUBA_Coverage_Area,Baseband_Copper_Capable,ActBBProductType
+,,,,,,,,,,,,,,,,,,,,,,,BE24/2,,Y,South Canterbury,,N,BUBA
+ASID,,,,,,DSLAM,,,,,,,,,,,,,,,,,M22/1,,N,Otago,DUNEDIN CENT,Y,BUBA
+1234567890,,,,,,AA-AAA-DSLAM-00,,,,,,,,,,,,,,,,,TL58/806,,Y,Otago,,N,BUBA
+,,,,,,AAA-DSLAM-00,,,,,,,,,,,,,,,,,FF55/64,,Y,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,AA-DSLAM-00,,,,,,,,,,,,,,,,,S5/9,,Y,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FD65/18,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CP79/2,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,S21/4,,N,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AB60/4,,N,South Canterbury,CROMWELL,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K21/14,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ER59/1,,Y,Otago,DUNEDIN CENT,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM22/918,,Y,Otago,DUNEDIN CENT,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,I24/48,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J23/8,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Q23/19,,N,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DH44/26,,N,South Canterbury,ALEXANDRA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AE19/2,,N,South Canterbury,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FE56/57,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FB64/14,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,H24/3,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FA64/10,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EB62/3,,N,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FD67/11,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL82/343,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EB64/15,,N,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,H21/32,,Y,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HK47/5,,Y,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K14/42,,N,Southland,BALCLUTHA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Feb-56,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FD59/59,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HM64/E,,N,Southland,QUEENSTOWN,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FD59/70,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FD58/61,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FD58/61,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,H25/AC,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,I25/76,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,I25/76,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AP73/1,,Y,Otago,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,D26/A,,Y,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL41/615,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GN35/3,34432851,Y,South Canterbury,WANAKA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GN35/3,1624128662,Y,South Canterbury,WANAKA,Y,
+,,,,,,,,,,,,,,,,,,,,,,,HJ04/6,,Y,South Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AA45/1,,Y,South Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,I26/15,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DQ73/1,,Y,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FA54/7,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FP41/3,,Y,Otago,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CR78/16,,N,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FJ08/1,,N,Marlborough / North Canterbury,RANGIORA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DJ80/2,,N,Banks,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GT61/A,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EF80/4,,Y,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AF23/2,,Y,South Canterbury,ASHBURTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AE11/1,,Y,Marlborough / North Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP73/23,,N,Marlborough / North Canterbury,RANGIORA,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BB81/2,,Y,Banks,RICCARTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL50/255,,,West Coast,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CP72/7,,N,Northland,KERIKERI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FR79/3,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM35/530,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DH64/3,,Y,Banks,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FB80/H,,N,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AA26/A,,Y,South Canterbury,ASHBURTON,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DU25/1,,Y,West Coast,HOKITIKA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,D30/17,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZU31/4,,Y,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GS03/6,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GN79/1,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,I14/16,,N,West Coast,WESTPORT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HE04/1,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L17/17,,N,Marlborough / North Canterbury,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FU54/7,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HG13/9,,N,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL78/6,,N,Banks,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BY32/2,,N,Banks,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GB07/15,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FC68/2,,N,Christchurch North,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GB10/2,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,G23/5,,N,Banks,ROLLESTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HS15/14,,Y,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M19/10,,N,Marlborough / North Canterbury,RANGIORA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,B31/3,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,X31/14,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K11/7,,Y,West Coast,GREYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BU15/2,,N,Banks,ROLLESTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J51/6,,N,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AD16/16,,N,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J51/4,,N,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM29/527,,N,Banks,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FQ69/7,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP70/805,,Y,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HH12/7,,Y,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,U36/11,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HR15/12,,Y,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AU43/9,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FA61/1,,Y,Christchurch North,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GH01/7,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GH76/17,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FM74/2,,Y,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AS37/7,,Y,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FR71/25,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL50/172,,N,South Canterbury,ASHBURTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Y30/13,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,X20/21,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HU16/14,,N,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FJ75/5,,N,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HK67/4,,Y,Marlborough / North Canterbury,KAIKOURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL99/18,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FQ70/2,,Y,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HU23/4,,Y,South Canterbury,ASHBURTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL47/78,,N,Christchurch North,CHRISTCHURCH,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Y19/4,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HT10/6,,Y,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GQ64/2,,Y,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AA23/1,,Y,South Canterbury,ASHBURTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL53/840,,Y,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GA08/5,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ET71/4,,Y,Christchurch North,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AN50/8,,N,South Canterbury,TEMUKA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AV44/1,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FM60/10,,Y,Christchurch North,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GK04/1,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,E47/9,,N,Christchurch North,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FU09/3,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,V37/5,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EJ77/C,,Y,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM26/197,,N,South Canterbury,TEMUKA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,W26/15,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FV70/27,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GB72/28,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GC71/4,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL05/789,,N,Grafton,REMUERA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL76/7,,N,Banks,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FR05/1,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ET38/18,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AW45/15,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HV08/2,,Y,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL13/458,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FK12/1,,Y,Marlborough / North Canterbury,RANGIORA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FR69/2,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FU05/2,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FU80/12,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FN75/18,,Y,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FN75/9,,Y,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FT72/26,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HA02/5,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EP71/4,,Y,Christchurch North,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL68/415,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ES07/7,,Y,Banks,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL13/505,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM19/704,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP30/467,,,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HU53/5,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K26/A,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,E23/23,,N,Bay of Plenty/ East Coast,WHAKATANE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL47/931,,N,Nelson,NELSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AK46/8,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL13/751,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AP43/B,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AR47/ZA,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AM50/5,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AK47/8,,Y,Nelson,NELSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HR58/6,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,N28/3,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HU60/7,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BJ32/1,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AE56/10,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AR47/12,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR38/2,,Y,Marlborough / North Canterbury,BLENHEIM,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BC41/1,,,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AA57/15,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AD56/11,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HU54/1,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AQ48/12,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AQ48/12,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AL47/14,,Y,Nelson,NELSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AR46/J,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL61/200,,N,Marlborough / North Canterbury,BLENHEIM,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,U40/6,,Y,Marlborough / North Canterbury,BLENHEIM,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AC57/3,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,N26/6,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AE56/1,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL86/885,,Y,Nelson,NELSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BC41/7,,,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DV37/10,,N,Marlborough / North Canterbury,BLENHEIM,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,V39/2,,Y,Marlborough / North Canterbury,BLENHEIM,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AU45/4,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HU53/3,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HV58/20,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,10-May,,N,Nelson,NELSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL86/907,,N,Nelson,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP56/476,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,3-Jan,,Y,Nelson,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,H31/4,,N,Nelson,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Y12/11,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HB80/5,,Y,Marlborough / North Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K14/9,,N,Southland,GORE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,11D5/5,,N,Southland,GORE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL07/956,,Y,Southland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K29/1,,N,Southland,INVERCARGILL,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K28/PM,,N,Southland,INVERCARGILL,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J28/8,,N,Southland,INVERCARGILL,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K32/20,,Y,Southland,INVERCARGILL,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J29/W,,N,Southland,INVERCARGILL,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DQ74/3,,N,Southland,INVERCARGILL,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FK54/3,,Y,Southland,GORE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K15/25,,N,Southland,GORE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,N10/4,,Y,Southland,GORE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,N10/4,,Y,Southland,GORE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Q12/9,,Y,Southland,GORE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AG09/4,,Y,Christchurch Central,CHRISTCHURCH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GC78/N,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GG07/5,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GC78/N,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HR58/13,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL51/995,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AR44/6,,N,Nelson,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CL69/2,,Y,Banks,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HQ64/15,,N,Southland,QUEENSTOWN,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GJ78/15,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AT22/3,,Y,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M19/1,,Y,Southland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL63/4,,Y,Banks,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,11D5/5,,N,Southland,GORE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HK64/4,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DJ78/7,,N,Banks,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HP63/4,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL34/596,,Y,Banks,RICCARTON,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FJ06/2,,Y,Marlborough / North Canterbury,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DH78/9,,N,Banks,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GN34/3,,Y,South Canterbury,WANAKA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HR61/B,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EV33/1,,Y,Banks,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AQ47/4,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HR61/B,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FD64/32,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL74/423,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FE58/80,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GQ35/11,,Y,South Canterbury,WANAKA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FJ75/1,,Y,Marlborough / North Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GG39/2,,N,West Coast,HOKITIKA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HH20/S,,N,Hawkes Bay,NAPIER,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AK54/10,,Y,Nelson,NELSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FL01/3,,N,Banks,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HC79/3,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL78/401,,Y,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL78/401,,Y,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GG69/1,,,Tauranga,MT MAUNGANUI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN79/1,,N,Southland,INVERCARGILL,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HD59/4,,Y,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FN37/1,,Y,Tamaki,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FN38/2,,N,Tamaki,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FQ70/21,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BY86/3,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BT87/11,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FQ51/C,,Y,Eastern Suburbs,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DV57/5,,N,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FA45/1,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FD45/11,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ES48/9,,N,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM21A/S,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FE57/L,,N,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EQ58/1,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BG63/1,,Y,Counties,PAPAKURA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FK61/4,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HA19/4,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EM66/1,,Y,South Auckland,PAPATOETOE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HC09/1,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GE80/F,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CB91/8,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,V95/8,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GL20/634,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GF39/4,,N,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM11/403,,Y,Eastern Suburbs,HOWICK,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FG60/1,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CS59/5,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EP88/12,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EP88/12,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FT46/8,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL40/882,,Y,Counties,PAPAKURA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL26/253,,Y,North Shore,GLENFIELD,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL31/808,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DT15/9,,Y,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM28/153,,Y,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EE15/11,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EC16/11,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP07/5,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL11/166,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR05/14,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DQ79/19,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DA59/1,,Y,North Auckland,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG55/6,,Y,North Auckland,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM79/22,,Y,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL56/4,,Y,North Auckland,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM03/4,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DJ57/1,,Y,North Auckland,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DA13/2,,N,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CT10/46,,N,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DA13/7,,N,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE12/3,,Y,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CM11/2,,Y,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CV12/6,,N,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CL01/4,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DA78/3,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC79/1,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,YL59/11,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB71/A,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,YN57/A,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL31/851,,Y,East Coast Bays,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB62/2,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC03/12,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB70/2,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC66/4,,N,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CQ12/4,,N,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DD05/8,,Y,Hobsonville,GLENFIELD,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DF39/5,,N,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DA35/1,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DQ38/2,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL06/917,,Y,North Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DD36/7,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DH39/3,,N,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DK38/10,,N,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CE34/D,,Y,North Auckland,RED BEACH,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,U10/3,,Y,North Shore,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HT02/2,,Y,North Shore,HOWICK,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CP30/2,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CM29/5,,N,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BR37/2,,N,West Auckland,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CA43/1,,Y,West Auckland,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GJ08/1,,Y,North Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M11/4,,Y,Hobsonville,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AM25/6,,Y,Hobsonville,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BA31/8,,N,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AE36/1,,Y,West Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AD36/2,,Y,West Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HL/A,,Y,North Auckland,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BM47/11,,N,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BD48/3,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL89/423,,Y,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,N131/19,,N,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,O114/21,,N,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL55/819,,Y,Northland,WHANGAREI,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AT44/5,,N,Northland,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AR42/4,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AP08/2,,Y,Northland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FU34/5,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AP47/1,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BS40/10,,N,West Auckland,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FN50/23,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CS24/19,,Y,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AG02/2,,Y,North Shore,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FK63/10,,N,Counties,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL99/233,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HV03/1,,Y,North Shore,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FL63/M,,N,Counties,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL29/868,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GG34/3,,N,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FA40/A,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM25/434,,N,Northland,WARKWORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DF21A/C,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HD09/6,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GE80/22,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EQ22/A,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BB73/2,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DD31/18,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BL17/2,,Y,Hobsonville,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL80/934,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AN04/2,,Y,North Shore,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BD26/A,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CL32/9,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CN30/3,,N,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BQ32/1,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM07/380,,N,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DF14/1,,Y,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HA11/1,,Y,Northland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L84/31,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GQ08/1,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CR73/3,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AU63/3,,N,Northland,KAITAIA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AM07/5,,N,Hobsonville,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FJ55/12,,N,Eastern Suburbs,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP04/10,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HD38/1,,N,Counties,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL39/121,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BU54/1,,N,Counties,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DH38/B,,N,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EP20/3,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AL24/3,,Y,Hobsonville,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FS37/1,,Y,Tamaki,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EF14/16,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN20/U,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG24/G,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG62/E,,N,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM20/L,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM21A/E,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EP11/1,,Y,Northland,KERIKERI,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM18/232,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AR79/5,,N,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CA45/4,,Y,West Auckland,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB76/10,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EA67/1,,N,Northland,DARGAVILLE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DU44/6,,N,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HE45/1,,N,Counties,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM24/472,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL20/T,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DQ23/J,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EJ31/5,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DF72/7,,Y,North Shore,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL09/389,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,P72/8,,Y,Grafton,REMUERA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T67/11,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,P66/12,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL24/982,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,P68/19,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,U73/12,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ES24/1,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,R66/11,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EF31/2,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FB22/1,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR28/21,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FE23/8,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EH24/32,,Y,Grafton,REMUERA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T65/25,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL40/712,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,P69/7,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EE27/8,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FH40/4,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T64/35,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EN28/2,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K73/3,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,R68/23,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M74/11,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,P76/10,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,F70/7,,Y,Grafton,REMUERA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR29/H,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,G84/8,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EH29/4,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AD82/1,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Q66/15,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J83/11,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EH31/6,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL66/579,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EH31/8,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR27/J,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T66/12,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL03/777,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,W67/15,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EM40/4,,Y,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ER36/2,,Y,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL27/316,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ER35/1,,Y,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EG36/F,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Y72/25,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DF29/21,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AB69/6,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AJ62/2,,Y,Hillsborough,MT ALBERT,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AT63/2,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP41/M,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM27/322,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AE63/13,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DS44/7,,N,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AG56/8,,,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE44/18,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DF29/11,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM18/352,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL55/552,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CP31/2,,N,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DD34/20,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AJ53/3,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CL27/22,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB30/9,,N,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CU33/24,,N,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CP33/18,,Y,Grey Lynn,MT ALBERT,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CK23/1,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CJ25/22,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CN27/3,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CN33/7,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CH30/1,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CQ42/3,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AT/CC,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DT22/Q,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR23/23,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DH25/2,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM21D/T,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CU20/14,,Y,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM21C/V,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DV25/7,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL11/209,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CT24/3,,Y,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DH26/10,,,Auckland Central,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC22/1,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN25/15,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DD20/25,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DT24/17,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM21A/S,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL22A/G,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL08/824,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AJ64/3,,N,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM18/432,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR22/L,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP36/B,,Y,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AN18/1,,N,Bay of Plenty/ East Coast,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GQ23/2,,Y,Hawkes Bay,NAPIER,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FS59/2,,N,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EE35/1,,Y,Bay of Plenty/ East Coast,GISBORNE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T24/10,,Y,Hawkes Bay,NAPIER,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GP09/5,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Q22/5,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GG06/5,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HH20/S,,N,Hawkes Bay,NAPIER,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GB39/A,,N,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN26/11,,N,Bay of Plenty/ East Coast,GISBORNE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J26/3,,Y,Bay of Plenty/ East Coast,WHAKATANE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BJ10/1,,Y,Central,TAUPO,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,D3/6,,N,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL29/741,,Y,Southland,QUEENSTOWN,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,S25/40,,Y,Hawkes Bay,NAPIER,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,X95/7,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FQ69/13,,Y,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FV79/2,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AB26/9,,N,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FT65/2,,N,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,H8/6,,N,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EG109/1,,N,Counties,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM10/784,,Y,Banks,CHRISTCHURCH,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FG55/29,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FS73/30,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GP61/2,,N,North Waikato / Coromandel,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,H16/1,,Y,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GH69/1,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL93/99,,Y,Manawatu,WHANGAREI,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GN74/3,,N,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FN49/11,,Y,Eastern Suburbs,HOWICK,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EC14/14,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DV09/12,,Y,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AC07/6,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN79/26,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BT04/3,,Y,Manawatu,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN04/4,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EP57/11,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL76/619,,Y,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AN29/6,,Y,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AC15/19,,N,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EB54/7,,N,Hutt / Wairarapa,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M9/1,,N,Central,OHAKUNE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL72/480,,Y,North Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BS61/1,,Y,North Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FU54/11,,Y,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE12/3,,Y,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE12/3,,Y,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC04/9,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CP21/12,,N,Manawatu,LEVIN,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP01/517,,N,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CN94/3,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL35/529,,N,Hutt / Wairarapa,MASTERTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CT03/1,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GT05/1,,N,Marlborough / North Canterbury,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CD91/9,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DF71/8,,Y,East Coast Bays,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL90/557,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,YP57/6,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AF26/15,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GS39/4,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,V94/7,,N,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AL44/2,,Y,Hutt / Wairarapa,MASTERTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,RW68/2,,,Northland,WARKWORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FU36/54,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GB78/39,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ED37/1,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL52/709,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EJ30/1,,Y,North Auckland,RED BEACH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AS21/12,,Y,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GM64/1,,N,North Waikato / Coromandel,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AP23/2,,Y,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL63/644,,Y,North Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL59/895,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FJ80/6,,N,Banks,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BP19/31,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL35/509,,Y,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FR43/14,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FV49/13,,Y,Counties,PAPAKURA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AB04/4,,Y,North Shore,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AC59/B,,N,Manawatu,LEVIN,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM02/936,,Y,North Shore,HOWICK,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FV76/N,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EF13/2,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AH24/H,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AH24/H,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FU80/12,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FU80/12,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZT33/2,,Y,Hobsonville,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FJ65/3,,N,Central,OHAKUNE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AT36/3,,Y,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AK26/2,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AH46/3,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP78/14,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP07/12,,Y,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HN66/10,,N,Central,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GK02/2,,N,West Coast,GREYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN78/11,,Y,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CP80/7,,N,West Coast,HOKITIKA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BR37/4,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AS61/1,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AR44/1,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GF38/4,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AK48/10,,Y,Nelson,NELSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AM51/3,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AK47/8,,Y,Nelson,NELSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HU56/2,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE12/3,,Y,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BB48/11,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K21/1,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CV08/4,,N,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AS61/1,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BE30/A,,N,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL10/502,,N,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GQ31/7,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE06/10,,Y,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AR47/59,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DA80/6,,N,East Coast Bays,GLENFIELD,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BE41/4,,,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GD36/1,,Y,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BA49/5,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,V10/6,,,Taranaki,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AG47/1,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BE15/1,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AL51/2,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BH15/19,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GS31/2,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,W29/4,,N,Taranaki,HAWERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GN35/3,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HV60/3,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP61/265,,N,Marlborough / North Canterbury,BLENHEIM,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BJ45/1,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GR45/1,,Y,Marlborough / North Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AB50/B,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EF40/1,,Y,Marlborough / North Canterbury,BLENHEIM,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EL41/6,,N,Northland,DARGAVILLE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,R133/6,,Y,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,I8/6,,N,Hutt / Wairarapa,FEATHERSTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EM07/1,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HH19/T,,N,Hawkes Bay,NAPIER,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AG40/2,,Y,Manawatu,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FE04/6,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HC39/2,,Y,Taranaki,NEW PLYMOUTH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR79/1,,Y,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL33/1,,Y,North Waikato / Coromandel,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M29/39,,N,Tauranga,MATAMATA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K14/17,,N,Southland,GORE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GS47/3,,Y,Southland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T118/11,,N,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM17/864,,Y,Southland,GORE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FM17/4,,Y,Northland,KERIKERI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Feb-25,,N,North Waikato / Coromandel,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM17/861,,Y,Southland,GORE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K30/D,,N,Southland,INVERCARGILL,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM17/246,,N,Southland,INVERCARGILL,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Q13/4,,Y,Southland,GORE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BK14/1,,Y,Hobsonville,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG61/8,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DV55/1,,Y,North Waikato / Coromandel,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EB66/1,,Y,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BF12/1,,Y,Hobsonville,HENDERSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG20/C,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ES69/3,,Y,Christchurch North,RICCARTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FK21/1,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC68/4,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Q16/9,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CM12/1,,Y,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM49/8,,Y,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM53/5,,N,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP21/533,,N,North Waikato / Coromandel,THAMES,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CL28/A,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,E12/5,,N,Central,TAUMARUNUI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HL17/2,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AQ25/A,,N,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,A29/1,,N,Southland,INVERCARGILL,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M6/B,,N,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,E15/3,,Y,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AV63/2,,N,Northland,KAITAIA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BH50/4,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FB64/4,,Y,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE64/2,,N,Central,TAUMARUNUI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AP42/B,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL15/924,,N,North Waikato / Coromandel,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DS59/E,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL13/540,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FQ01/1,,Y,Northland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG24/2,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DH78/1,,N,Banks,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,E19/9,,Y,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Feb-30,,N,North Waikato / Coromandel,TE KAUWHATA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J19/10,,Y,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K2/13,,Y,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP12/114,,N,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CJ77/2,,Y,East Coast Bays,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GR66/1,,N,North Waikato / Coromandel,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EB61/N,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FL72/3,,N,Central,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AN61/1,,Y,Manawatu,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AH67/C,,N,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AU44/10,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL48/546,,N,Marlborough / North Canterbury,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CJ25/3,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL67/262,,N,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL03/349,,Y,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CJ23/23,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CM03/6,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J26/5,,Y,Bay of Plenty/ East Coast,WHAKATANE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K27/2,,Y,Bay of Plenty/ East Coast,WHAKATANE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,G8/19,,N,Tauranga,MT MAUNGANUI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EF51/A,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FP44/6,,Y,Tamaki,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GD43/2,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ET25/1,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,B29/1,,Y,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L29/15,,N,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,G28/3,,Y,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M31/17,,N,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FT46/25,,N,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,B29/1,,Y,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GH01/1,,N,North Waikato / Coromandel,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FH66/3,,N,Counties,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,F80/30,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,G13/7,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CR95/6,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AA80/6,,N,Tamaki,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FA32/9,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L17/30,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EQ28/6,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HL52/1,,N,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J74/8,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EH26/3,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J26/8,,N,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,H74/11,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GP40/2,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J43/7,,Y,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EP28/2,,Y,Bay of Plenty/ East Coast,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K88/8,,Y,Eastern Suburbs,HOWICK,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,E83/5,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM52/D,,N,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FB34/B,,N,Tamaki,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FG38/2,,N,Tamaki,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AF69/1,,Y,Central,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EJ106/5,,N,Counties,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR28/60,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EF41/C,,Y,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL63/1,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP23/240,,N,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,U34/3,,N,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AC70/N,,Y,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DH30/26,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL31/578,,N,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EF15/21,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EG14/6,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL90/443,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN38/1,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DU49/C,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DQ06/5,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AU39/A,,Y,Hutt / Wairarapa,MASTERTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP39/3,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DQ08/23,,Y,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL41/147,,Y,North Auckland,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GS41/2,,Y,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZB59/3,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AG24/B,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM18/372,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DF75/7,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL25/457,,Y,Manawatu,LEVIN,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DD04/3,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CQ11/3,,N,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CS33/8,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CP17/4,,Y,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZT14/10,,N,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CS10/15,,N,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,P28/2,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL77/108,,N,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZD50/5,,Y,Hutt / Wairarapa,UPPER HUTT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,O29/42,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC02/F,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CP37/4,,Y,Hillsborough,MT ALBERT,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AH49/20,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CK01/7,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZX25/4,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,KK36/14,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE01/14,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CC58/9,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CV45/5,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CK01/8,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,S18/17,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE28/28,,N,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,N18/5,,Y,Manawatu,PARAPARAUMU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,O19/13,,N,Manawatu,PARAPARAUMU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZK41/12,,Y,Hutt / Wairarapa,UPPER HUTT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M25/2,,Y,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CJ41/11,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM13/389,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL32/13,,N,Hillsborough,MT ALBERT,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN22/A,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE20/22,,Y,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,W12/4,,N,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG03/5,,Y,Wellington Suburbs,PORIRUA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM28/364,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CQ22/1,,Y,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CH34/3,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BM55/17,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DT24/38,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DK24/6,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB24/10,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZF44/2,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DD26/G,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,G33/6,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CT25/19,,Y,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM24/A,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,I41/19,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,P72/27,,Y,Grafton,REMUERA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,U23/13,,Y,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,I41/10,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP46/237,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AO18/10,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M34/29,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AB10/17,,Y,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AO18/10,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GB12/11,,,Hutt / Wairarapa,UPPER HUTT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,U28/10,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BK60/1,,Y,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZO39/9,,Y,Hutt / Wairarapa,UPPER HUTT,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DD34/6,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CB59/13,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CE39/8,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EH35/2,,Y,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,I21/13,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CN61/26,,Y,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FQ59/6,,Y,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,D27/28,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CA64/A,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP60/5,,Y,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,I23/33,,Y,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM08/272,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FV13/2,,Y,Manawatu,PARAPARAUMU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CG37/8,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EL22/4,,Y,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DU33/L,,N,Hutt / Wairarapa,NAENAE,Y,WVS
+,,,,,,,,,,,,,,,,,,,,,,,CA66/19,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Q37/1,,Y,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BQ52/6,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BS57/N,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T28/OJ,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T28/AL,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,S29/D,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BS57/L,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BQ55/AD,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BR55/K,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BQ55/AD,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BR55/K,,N,Wellington Central,WELLINGTON,Y,
+,,,,,,,,,,,,,,,,,,,,,,,Y20/4,,N,Hawkes Bay,NAPIER,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BP58/29,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BQ54/28,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FP27/D,,Y,Manawatu,PARAPARAUMU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J12/11,,Y,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,O13/C,,N,Manawatu,PARAPARAUMU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Q28/OA,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BQ59/B,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL08/736,,Y,Hutt / Wairarapa,NAENAE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EB32/B,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DS27/E,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL38/42,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB30/1,,N,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FD80/7,,N,Hutt / Wairarapa,FEATHERSTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC18/1,,N,Manawatu,LEVIN,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ES35A/B,,Y,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,P27/11,,N,Hutt / Wairarapa,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM21/J,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AS40/60,,N,Hutt / Wairarapa,MASTERTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CE11/4,,Y,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL77/198,,Y,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CG36/H,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DK28/39,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DT22/N,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EH40/S,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE23/58,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM23/T,,N,Auckland Central,MAYORAL DRIVE,Y,
+,,,,,,,,,,,,,,,,,,,,,,,AQ35/3,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AN27/3,,Y,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,D81/4,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CQ10/12,,Y,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HS26/10,,Y,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AK22/24,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HR29/4,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DV54/4,,Y,Bay of Plenty/ East Coast,WHAKATANE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP21/41,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DA56/2,,Y,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EF76/1,,Y,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP47/1,,N,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AS18/15,,Y,Manawatu,PALMERSTON NORTH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AR40/29,,N,Hutt / Wairarapa,MASTERTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CT10/P,,N,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL45/380,,Y,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ES41/A,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DU32/4,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HS06/2,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GG35/5,,Y,Marlborough / North Canterbury,RANGIORA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CP74/3,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BU78/7,,N,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM28/913,,Y,Manawatu,LEVIN,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CV72/L,,Y,East Coast Bays,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM08/99,,N,Hutt / Wairarapa,FEATHERSTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,G12/2,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL43/241,,Y,North Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DT33/4,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AS22/14,,N,Hobsonville,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN21/Y,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,SK64/1,,Y,Northland,WARKWORTH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CR20/21,,N,Manawatu,LEVIN,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HK67/1,,N,Central,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EK55/7,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CU60/2,,Y,Banks,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AN28/10,,Y,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GU21/1,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM02/405,,N,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CV72/R,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AN68/2,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CF38/26,,Y,Taranaki,HAWERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP75/19,,N,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,G24/28,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GF02/3,,Y,Counties,PAPAKURA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CD48/1,,N,Northland,DARGAVILLE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BH08/7,,Y,Hobsonville,HENDERSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GH33/4,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EV64/2,,Y,Christchurch North,RICCARTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FD60/AC,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DV34/3,,Y,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CG45/1,,Y,Bay of Plenty/ East Coast,WHAKATANE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AV65/4,,Y,North Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GL37/7,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BK16/12,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR36/7,,Y,Marlborough / North Canterbury,BLENHEIM,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BT69/2,,Y,North Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AR48/12,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CU60/B,,Y,East Coast Bays,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP02/599,,Y,North Shore,GLENFIELD,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FU43/B,,Y,Tauranga,MT MAUNGANUI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL19/759,,Y,North Auckland,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EA06/Q,,N,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BN46/5,,Y,North Waikato / Coromandel,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GE34/10,,Y,Marlborough / North Canterbury,RANGIORA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EN65/2,,Y,Central,MATAMATA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB62/1,,Y,Banks,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GH46/37,,Y,Eastern Suburbs,HOWICK,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CM66/A,,Y,North Auckland,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AT36/3,,Y,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CQ10/15,,N,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,F28/H,,Y,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL38/175,,Y,Bay of Plenty/ East Coast,GISBORNE,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL61/1,,Y,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ER46/AF,,Y,South Auckland,PAPATOETOE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CL71A/D,,Y,North Auckland,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HS25/16,,Y,South Canterbury,ASHBURTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GR39/R,,N,South Canterbury,WANAKA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M31/45,,N,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HA53/5,,N,North Waikato / Coromandel,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FV59/30,,Y,Eastern Suburbs,PAPATOETOE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL04/699,,Y,Banks,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FK05/1,,N,Marlborough / North Canterbury,RANGIORA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FU60/5,,Y,Eastern Suburbs,PAPATOETOE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL12/450,,Y,North Auckland,TORBAY,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL18/856,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CB32/32,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL68/162,,Y,South Auckland,REMUERA,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GF03/33,,Y,Counties,PAPAKURA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL30/349,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FT70/A,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR44/17,,Y,North Waikato / Coromandel,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GU56/3,,Y,Counties,PAPAKURA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AD74/1,,Y,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FQ58/10,,Y,Christchurch North,CHRISTCHURCH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BQ39/1,,Y,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL11/139,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GH46/5,,Y,Eastern Suburbs,HOWICK,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AK23/4,,N,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL15/102,,Y,North Auckland,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DJ19/J,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DT24/30,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DT24/30,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EP51/1,,Y,North Waikato / Coromandel,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL14/842,,Y,North Auckland,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GE04/11,,N,Northland,WHANGAREI,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CT57/2,,N,North Auckland,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GQ17/5,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL39/73,,Y,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL06/474,,Y,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL20/846,,Y,Auckland Central,MAYORAL DRIVE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL07/803,,Y,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM31/2,,Y,Northland,WARKWORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL11/527,,Y,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL18/59,,Y,North Auckland,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FJ69/1,,N,Christchurch North,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HH24/1,,N,Bay of Plenty/ East Coast,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL14/754,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM24/Y,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL21/591,,N,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL23/768,,Y,Counties,PAPAKURA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL89/226,,Y,Tauranga,MT MAUNGANUI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CJ23/13,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL42/366,,Y,East Coast Bays,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL30/714,,Y,Banks,RICCARTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BT53/9,,Y,West Coast,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL46/195,,N,Counties,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BP56/D,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL31/711,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL75/891,,N,Tauranga,MATAMATA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM21C/V,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL31/747,,Y,Northland,WARKWORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM26/653,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL36/564,,N,West Auckland,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL20/995,,Y,Northland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GC71/60,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL12/451,,N,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL45/98,,Y,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL40/843,,Y,Southland,QUEENSTOWN,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HV64/2,,Y,Northland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DT22/Q,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL45/46,,Y,Christchurch North,CHRISTCHURCH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BN09/1,,Y,North Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL50/897,,,,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HM41/1,,N,South Canterbury,WANAKA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL37/252,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BG63/2,,Y,Counties,PAPAKURA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL66/959,,Y,Christchurch North,CHRISTCHURCH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL56/895,,Y,Manawatu,PALMERSTON NORTH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL69/683,,Y,Marlborough / North Canterbury,BLENHEIM,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,NAUT,,,,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL85/713,,Y,Counties,PAPAKURA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL61/894,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DK28/E,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EK31/3,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL51/864,,Y,Nelson,NELSON,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL95/551,,Y,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL93/523,,Y,Counties,PAPAKURA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL62/145,,Y,North Waikato / Coromandel,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FP11/3,,Y,Banks,CHRISTCHURCH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL90/634,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL48/305,,,Christchurch Central,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL80/518,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL90/743,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL91/653,,Y,Counties,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL59/131,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL87/803,,Y,North Auckland,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL95/981,,N,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL37/101,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM03/288,,N,Marlborough / North Canterbury,RANGIORA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL82/214,,Y,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL96/72,,N,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DF29/2,,Y,Northland,WHANGAREI,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,H30/1,,Y,Bay of Plenty/ East Coast,WHAKATANE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L50/2,,Y,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CR79/6,,N,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DJ70/12,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J15/7,,N,Southland,GORE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DH65/5,,Y,East Coast Bays,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC71/4,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL65/64,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE68/6,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM16/549,,Y,South Auckland,PAPATOETOE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG62/L,,N,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L17/3,,N,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL90/395,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL70/578,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,YM58/4,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL61/488,,,North Shore,HOWICK,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP35/224,,Y,Taranaki,NEW PLYMOUTH,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L16/13,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ET65/3,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE13/3,,Y,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CN12/4,,Y,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG59/7,,N,Northland,WARKWORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CS23/A,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL57/166,,Y,Christchurch North,CHRISTCHURCH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DH39/8,,N,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN36/5,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CV35/4,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CG25/5,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CD32/2,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL33/146,,Y,North Auckland,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG70/2,,Y,Tauranga,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,U7/10,,Y,North Shore,HOWICK,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HV03/F,,Y,North Shore,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM33/996,,Y,North Auckland,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HP70/2,,Y,Northland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,UX46/1,,N,North Auckland,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP46/826,,Y,Wellington Suburbs,PORIRUA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CB44/A,,Y,West Auckland,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BS36/1,,N,West Auckland,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AG46/5,,,West Auckland,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BR41/1,,N,West Auckland,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL83/613,,Y,Manawatu,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GN02/1,,N,North Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AF75/3,,N,North Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BF10/1,,Y,Hobsonville,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP22/749,,N,North Waikato / Coromandel,TAURANGA,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZS33/4,,Y,Hobsonville,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL35/789,,Y,Banks,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DS53/14,,N,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL36/578,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AM27/1,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL59/376,,Y,West Auckland,HENDERSON,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BN42/2,,N,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BF42/4,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,F28/K,,Y,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BJ42/14,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,H34/9,,Y,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL79/204,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BD41/4,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EC32/1,,Y,Marlborough / North Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL09/218,,N,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BC18/5,,Y,Hobsonville,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL08/544,,Y,North Waikato / Coromandel,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T28/K,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL77/110,,Y,Eastern Suburbs,PAPATOETOE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL78/792,,Y,East Coast Bays,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CJ41/3,,Y,South Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL99/120,,N,Grafton,REMUERA,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BQ39/1,,Y,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BD30/48,,N,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL06/821,,Y,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K37/13,,Y,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BK09/3,,Y,Central,TAUPO,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DQ03/43,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J19/19,,Y,Bay of Plenty/ East Coast,ROTORUA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BB55/2,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP70/87,,Y,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BG54/6,,Y,West Auckland,HENDERSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BK45/1,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BC50/1,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BN44/9,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL75/563,,Y,Marlborough / North Canterbury,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BF47/1,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BK53/1,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BV47/B,,Y,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP47/325,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL65/768,,Y,Hamilton,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ED39/3,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL97/528,,Y,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FS51/G,,Y,Eastern Suburbs,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J17/11,,Y,Bay of Plenty/ East Coast,ROTORUA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HP65/E,,N,Central,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL27/793,,N,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,V117/3,,Y,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T116/3,,N,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL70/395,,Y,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP67/9,,N,Northland,DARGAVILLE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BJ34/1,,Y,Northland,KERIKERI,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AK36/3,,Y,Northland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FP14/3,,Y,Northland,KERIKERI,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FP27/3,,N,Northland,KAITAIA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM52/4,,N,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DF73/1,,Y,Northland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM30/207,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CP36/1,,,Bay of Plenty/ East Coast,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ES36/A,,Y,Tamaki,REMUERA,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL19/147,,Y,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,C32/4,,Y,Southland,INVERCARGILL,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL23A/L,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN21A/T,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,P39/6,,N,Bay of Plenty/ East Coast,WHAKATANE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CE22/4,,Y,North Auckland,RED BEACH,N,
+,,,,,,,,,,,,,,,,,,,,,,,TL98/507,,Y,West Auckland,HENDERSON,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL92/709,,N,Bay of Plenty/ East Coast,WHAKATANE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,N18/8,,N,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB76/17,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN20/N,93543597,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HM78/4,,N,North Waikato / Coromandel,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP68/749,,Y,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM03/289,,N,Marlborough / North Canterbury,RANGIORA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HD37/2,,Y,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL92/273,,Y,North Waikato / Coromandel,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FN66/A,,Y,Counties,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL55/622,,,Northland,WARKWORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM07/70,,N,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GB71/26,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,G25/11,,Y,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CL19/9,,Y,Manawatu,LEVIN,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HJ15/A,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL78/779,,Y,Eastern Suburbs,PAPATOETOE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,N33/73,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BU63/A,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BQ61/41,,Y,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,E28/W,,N,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG62/15,,N,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CG37/4,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP11/921,,Y,Hamilton,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FP47/5,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CG22/5,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EE33/2,,Y,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,G15/7,,Y,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZW34/8,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J21/8,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG74/11,,N,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,S16/3,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP13/683,,Y,Hamilton,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZX13/1,,N,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GK76/23,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BQ57/AL,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM10/48,,Y,Northland,WARKWORTH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CV35/4,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CT14/E,,Y,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM32/174,,Y,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CP20/1,,N,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BV66/4,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CC67/9,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DJ79/4,,N,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL87/996,,N,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EE36/9,,Y,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CJ61/3,,Y,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM24/A,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,S21/1,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CE36/17,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EB33/14,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM14/646,,Y,Tamaki,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M31/D,,N,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K13/10,,N,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZC51/24,,Y,Hutt / Wairarapa,UPPER HUTT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EH31/4,,Y,North Auckland,RED BEACH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CJ42/1,,Y,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GB07/6,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AB26/1,,Y,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,N14/2,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG37/H,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CN35/1,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BS29/A,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DH22/H,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EU24/8,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T66/8,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EJ24/C,,Y,Grafton,REMUERA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CE72/8,,N,North Waikato / Coromandel,TE KAUWHATA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CH34/B,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN21/55,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ER35/R,,Y,South Auckland,REMUERA,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ED44/L,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CJ24/4,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP14/944,,Y,North Waikato / Coromandel,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM23/T,,N,Auckland Central,MAYORAL DRIVE,Y,
+,,,,,,,,,,,,,,,,,,,,,,,BQ75/1,,Y,East Coast Bays,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EH41/J,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EG38/4,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL54/198,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DK30/A,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HU79/5,,N,North Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL41/615,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CH43/E,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GM60/2,,Y,Northland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CT10/P,,N,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DS24/H,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL47/569,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CV21/28,,Y,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EG36/J,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FM46/18,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM31/542,,Y,Counties,PAPATOETOE,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,S117/7,,N,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DK33/29,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EG39/W,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BC50/4,,Y,West Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DK36/36,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DF24/26,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB71/R,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DA78/E,,N,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC71/5,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FA49/27,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AG66/20,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE/MD,,N,Counties,PAPAKURA,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CQ72/2,,N,Northland,KERIKERI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AQ47/14,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ET44/R,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DF14/1,,Y,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CT20/10,,Y,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GL41/5,,Y,Eastern Suburbs,HOWICK,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AC56/1,,N,Otago,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CJ23/5,,Y,North Waikato / Coromandel,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM05/420,,Y,Tamaki,REMUERA,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ETM/Q,,N,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CG67/7,,Y,North Auckland,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CH31/11,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BG12/7,,Y,Hobsonville,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM24/890,,Y,North Auckland,RED BEACH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CG33/14,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DF20/16,,Y,Grey Lynn,MAYORAL DRIVE,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K31/44,,N,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GL43/7,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL08/218,,N,West Coast,HOKITIKA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DF38/E,,N,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,V66/3,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AN29/6,,N,Northland,KERIKERI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BT60/1,,Y,North Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB34/16,,N,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DV24/28,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EB06/D,,N,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CU27/1,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EG31/A,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HT79/5,,N,North Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FB40/20,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FM45/17,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EC31/J,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HS37/3,,Y,North Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FK16/B,,N,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GM43/4,,Y,South Canterbury,WANAKA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC73/5,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BV47/8,,N,Northland,WARKWORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM13/72,,Y,Counties,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL22/Z,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AJ78/B,,N,North Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM18/232,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP05/A,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CV20/17,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EP34/2,,N,Tauranga,MT MAUNGANUI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CT10/39,,N,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AV04/1,,N,North Waikato / Coromandel,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL20/T,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN71/4,,Y,Banks,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FV46/B,,N,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Y77/B,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR27/Q,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GJ71/7,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CB33/7,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DV27/5,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,R71/32,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L77/7,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL70/192,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FA24/1,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL18/189,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EU84/1,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EV29/3,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GM35/9,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Z81/7,,N,Tamaki,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T66/12,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL03/806,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN32/5,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL06/209,,Y,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GP19/4,,N,Manawatu,PARAPARAUMU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EJ43/D,,Y,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,W73/4,,Y,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AH27/1,,Y,Central,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG30/17,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HK15/27,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM28/1,,Y,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AK48/17,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GS73/1,,Y,West Coast,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM22B/N,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL05/927,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DJ33/6,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,V60/31,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC30/17,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CM27/31,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL14/735,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CS31/23,,N,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CJ39/2,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CP27/2,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BV31/G,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL99/141,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CF36/6,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL67/792,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM21B/P,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM21B/P,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR23/D,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE23/40,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM22/S,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DJ27/K,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG27/A,,Y,Auckland Central,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DK27/A,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB26/29,,Y,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CV35/4,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL65/689,,Y,Counties,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DK28/30,,N,Bay of Plenty/ East Coast,GISBORNE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Y24/23,,N,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AR70/1,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL09/648,,Y,Marlborough / North Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL73/253,,Y,Banks,ROLLESTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP70/900,,Y,Banks,RICCARTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BR54/E,,N,Wellington Central,WELLINGTON,Y,
+,,,,,,,,,,,,,,,,,,,,,,,GJ29/1,,Y,Hawkes Bay,NAPIER,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AS66/1,,N,Northland,KAITAIA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GA41/4,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GB59/2,,N,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL18/272,,Y,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL22/D,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GT73/2,,Y,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FU61/3,,N,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL41/544,,N,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EV65/1,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC37/F,,N,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,U29/11,,Y,Hawkes Bay,NAPIER,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,F25/6,,Y,Hawkes Bay,NAPIER,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL61/70,,N,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AT45/19,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L83/AA,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CD45/2,,N,Northland,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CF25/10,,Y,North Auckland,RED BEACH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL36/186,,N,Southland,QUEENSTOWN,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BR119/1,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BC49/1,,Y,Northland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EA47/1,,Y,Counties,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HB20/7,,Y,Hawkes Bay,NAPIER,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL36/49,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GU34/1,,Y,Hawkes Bay,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP22/J,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EM22/5,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL45/635,,Y,North Auckland,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL43/891,,Y,West Auckland,HENDERSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL67/788,,N,Tamaki,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ES27/3,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL26/576,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL46/585,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CA64/2,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T28/AG,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CU35/8,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,E8/13,,N,Tauranga,MT MAUNGANUI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL58/24,,N,Banks,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EM17/6,,N,Central,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EJ30/1,,Y,North Auckland,RED BEACH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM06/458,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL71/806,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ER41/6,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL37/579,,Y,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL33/798,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HS65/13,,N,Central,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AN38/4,,N,Hutt / Wairarapa,MASTERTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL62/179,,Y,North Waikato / Coromandel,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AC59/B,,N,Manawatu,LEVIN,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CM20/10,,N,Manawatu,LEVIN,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FE29/1,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL99/161,,N,Hawkes Bay,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL16/647,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL59/101,,Y,North Auckland,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CA30/18,,N,Taranaki,HAWERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GP38/7,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ER79/3,,N,Manawatu,LEVIN,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CC16/35,,Y,Banks,ROLLESTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GH39/1,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HE29/3,,Y,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL91/693,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL78/79,,N,North Waikato / Coromandel,COROMANDEL,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AD19/9,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GQ31/19,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL74/791,,Y,Bay of Plenty/ East Coast,WHAKATANE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC75/1,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CJ43/A,,Y,Wellington Central,WELLINGTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GN32/N,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM06/891,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K7/21,,N,Central,MATAMATA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DJ62/9,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K40/7,,N,North Waikato / Coromandel,TE KAUWHATA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,O16/13,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP13/417,,Y,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,E10/20,,Y,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,F4/E,,N,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EL65/4,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J84/24,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K15/A,,N,Hamilton,HAMILTON,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,F75/19,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,H81/12,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CU24/10,,Y,Manawatu,LEVIN,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,S68/33,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,N68/16,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DQ27/9,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL38/428,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM06/706,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GP72/1,,N,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,E8/3,,N,Central,TAUPO,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FS73/9,,Y,Christchurch Central,CHRISTCHURCH,Y,UBS
+,,,,,,,,,,,,,,,,,,,,,,,TL40/654,,N,Banks,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ET30/8,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN29/8,,Y,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP29/982,,Y,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EL37/1,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AC70/N,,Y,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L30/111,,N,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AG62/8,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AH66/3,,N,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL37/3,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL36/693,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EQ34/1,,Y,Tauranga,MT MAUNGANUI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN21D/N,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,R22/6,,N,Bay of Plenty/ East Coast,WHAKATANE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,N12/2,,N,Bay of Plenty/ East Coast,WHAKATANE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC36/22,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DD31/18,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB34/9,,N,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,X25/12,,Y,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP21/570,,Y,Tauranga,MT MAUNGANUI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CK23/10,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL71/898,,Y,Eastern Suburbs,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP12/250,,Y,North Waikato / Coromandel,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM13/422,,N,Grey Lynn,MT ALBERT,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZY22/23,,N,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP56/637,,Y,Nelson,NELSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CA13/1,,N,Central,TAUPO,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CN23/3,,Y,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DA22/14,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL62/783,,Y,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DA23/15,,Y,Grey Lynn,MAYORAL DRIVE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,K1/17,,Y,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CU25/18,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DV24/20,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BJ14/6,,N,Central,TAUPO,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DK22/14,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR23/V,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,P11/7,,Y,Bay of Plenty/ East Coast,WHAKATANE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE17/2,,Y,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EG28/3,,Y,Grafton,REMUERA,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL04/117,,Y,Marlborough / North Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FB23/5,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP02/660,,Y,East Coast Bays,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,N12/1,,Y,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,N14/C,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM23/474,,Y,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EC53/15,,N,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CC55/1,,Y,Marlborough / North Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AG27/4,,Y,Central,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,X68/15,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,A13/2,,N,Hawkes Bay,HASTINGS,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DV33/C,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM35/964,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL42/719,,N,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CG37/4,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,H14/8,,Y,Hawkes Bay,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL85/322,,Y,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL21/S,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM06/803,,Y,Counties,PAPAKURA,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BE31/G,,N,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL28/898,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T17/4,,Y,Bay of Plenty/ East Coast,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP56/824,,Y,Nelson,NELSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM32/150,,Y,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR06/3,,N,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BR54/A,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CK23/1,,Y,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BB54/A,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB76/14,,Y,East Coast Bays,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DH28/F,,N,Bay of Plenty/ East Coast,GISBORNE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,J23/15,,Y,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AL19/A,,Y,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BQ57/AL,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AV10/1,,Y,Hutt / Wairarapa,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CP17/14,,N,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FV13/2,,Y,Hutt / Wairarapa,UPPER HUTT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CJ22/2,,Y,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CN61/23,,Y,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM32/191,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AK27/3,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AL22/4,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HR60/2,,N,Manawatu,LEVIN,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AG25/E,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AR41/27,,N,Hutt / Wairarapa,MASTERTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HH39/8,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CC41/6,,Y,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BQ57/21,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AA24/7,,Y,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EP20/13,,N,Hutt / Wairarapa,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BV57/21,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BR61/16,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,R28/C,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AH24/H,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AH24/H,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL20/801,,Y,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BQ56/F,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HL66/9,,N,Central,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,W15/12,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HB32/1,,Y,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL81/649,,Y,Hutt / Wairarapa,NAENAE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,W13/6,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,N14/45,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM12/585,,N,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FV39/1,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EH37/B,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EH37/B,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GT36/4,,Y,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CU29/4,,N,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL18/164,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BV31/19,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE23/31,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE22/14,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP21/4,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DF33/23,,Y,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM23/T,,N,Auckland Central,MAYORAL DRIVE,Y,WVS
+,,,,,,,,,,,,,,,,,,,,,,,DM23/T,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,W10/1,,,Taranaki,NEW PLYMOUTH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Y62/39,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AB61/9,,N,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BM40/1,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM19/434,,Y,Hutt / Wairarapa,MASTERTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CK10/1,,Y,North Waikato / Coromandel,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG60/1,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CL72/S,,Y,North Auckland,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GQ49/1,,Y,North Waikato / Coromandel,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BD31/1,,Y,North Waikato / Coromandel,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR60/5,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FC40/3,,N,Hutt / Wairarapa,FEATHERSTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L13/Q,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ES45/N,,Y,South Auckland,PAPATOETOE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EJ33/1,,Y,Tauranga,MT MAUNGANUI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GG29/2,,N,North Waikato / Coromandel,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,N14/7,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CE33/8,,Y,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HG11/6,,Y,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BC20/3,,N,Taranaki,NEW PLYMOUTH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EC61/L,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AQ41/34,,N,Hutt / Wairarapa,MASTERTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,6-Apr,,N,Nelson,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AV70/2,,Y,North Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CN61/20,,Y,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL88/344,,N,Central,TAUPO,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR44/A,,N,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HG57/1,,N,Bay of Plenty/ East Coast,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GH41/1,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL46/376,,,,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AT38/2,,Y,Northland,KERIKERI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,G28/1,,Y,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,E23/21,,N,Bay of Plenty/ East Coast,WHAKATANE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L20/15,,N,Bay of Plenty/ East Coast,WHAKATANE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZV18/1,,Y,Central,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FG68/1,,Y,Hamilton,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL23/830,,Y,North Auckland,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE18/1,,Y,North Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BQ49/3,,N,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DH20/Q,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,C3/29,,Y,Tauranga,MT MAUNGANUI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DS45/34,,N,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BV47/3,,N,Bay of Plenty/ East Coast,WHAKATANE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,H9/3,,N,Tauranga,MT MAUNGANUI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EH18/6,,Y,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZC23/1,,N,North Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BT60/1,,Y,North Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BU38/20,,N,West Auckland,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CU36/2,,N,Hamilton,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EJ37/7,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AF11/1,,Y,Marlborough / North Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BB32/19,,N,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GM79/18,,N,West Coast,GREYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AH23/T,,N,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Y20/A,,Y,Bay of Plenty/ East Coast,ROTORUA,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FQ04/2,,Y,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,F4/2,,N,Hamilton,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,V27/12,,Y,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GA59/1,,N,Bay of Plenty/ East Coast,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EK28/1,,N,Tauranga,MT MAUNGANUI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DT46/15,,N,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL07/134,,N,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BG63/1,,Y,Counties,PAPAKURA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CF15/1,,Y,Banks,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,X31/1,,N,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HE64/2,,Y,North Waikato / Coromandel,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL05/906,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GS31/G,,N,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL26/738,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL09/413,,N,North Auckland,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DT23/G,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ET16/1,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EA26/1,,Y,Hutt / Wairarapa,NAENAE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EL57/8,,Y,North Waikato / Coromandel,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DS56/25,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC60/10,,Y,Hamilton,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AA25/9,,,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BM46/1,,Y,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CN36/1,,Y,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CC35/2,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CF39/14,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Y10/8,,Y,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ZW26/5,,Y,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T26/21,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CA44/6,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BP59/B,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,H17/11,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL17/642,,N,Hutt / Wairarapa,MASTERTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BR55/M,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DL78/13,,N,Banks,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CL32/15,,Y,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL15/742,,Y,Hobsonville,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Q35/4,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T14/2,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DU33/Q,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EA33/A,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DT59/1,,N,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM20/N,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BP17/21,,Y,Hobsonville,HENDERSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM78/1,,Y,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BQ54/AC,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BG56/3,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL39/47,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AG58/26,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,T28/AN,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BV47/E,,Y,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL30/592,,Y,Christchurch North,RICCARTON,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DU32/Y,,N,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM02/649,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BR54/E,,N,Wellington Central,WELLINGTON,Y,
+,,,,,,,,,,,,,,,,,,,,,,,DB21/43,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL46/199,,Y,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CU11/E,,N,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR23/F,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DJ31/2,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL48/802,,Y,North Waikato / Coromandel,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM20/A,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR28/21,,N,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CC32/2,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FF06/2,,Y,Northland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EL44/C,,Y,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AL48/5,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB62/1,,Y,Banks,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL40/843,,Y,Southland,QUEENSTOWN,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CK73/G,,Y,North Auckland,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GF45/1,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EA43/1,,Y,Hutt / Wairarapa,NAENAE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FJ41/J,,N,Tamaki,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FD17/A,,Y,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE56/2,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DK26/Q,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL45/51,,Y,Christchurch North,CHRISTCHURCH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL54/190,,Y,Grafton,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GM69/A,,N,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BT29/H,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BH76/1,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,O13/9,,Y,Southland,GORE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL55/165,,Y,North Waikato / Coromandel,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DJ29/5,,N,Bay of Plenty/ East Coast,GISBORNE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EK11/1,,N,Marlborough / North Canterbury,RANGIORA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL58/819,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FE58/40,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DE43/1,,Y,Tauranga,TAURANGA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL39/617,,Y,Grey Lynn,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DQ03/H,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AA03/1,,N,North Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP21/K,,Y,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL39/91,,N,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FG55/1,,Y,Nelson,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL34/242,,Y,North Auckland,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL53/608,,N,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL58/922,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L18/17,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CM52/1,,N,Manawatu,LEVIN,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DJ41/2,,N,South Canterbury,ALEXANDRA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM21E/D,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CV72/Q,,Y,East Coast Bays,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB35/2,,Y,West Coast,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL24/751,,Y,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GM30/13,,Y,South Canterbury,WANAKA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EH38/A,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GT17/3,,Y,Northland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L30/53,,N,Bay of Plenty/ East Coast,ROTORUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,P20/2,,Y,Tauranga,TAURANGA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,H14/3,,Y,Central,TAUPO,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,P8/3,,N,Tauranga,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP03/D,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CV72/AB,,Y,East Coast Bays,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DB27/12,,Y,Bay of Plenty/ East Coast,GISBORNE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL80/980,,N,North Waikato / Coromandel,COROMANDEL,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL74/502,,Y,South Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M61/1,,Y,North Waikato / Coromandel,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L28/12,,N,Southland,INVERCARGILL,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EG52/13,,Y,Tauranga,TAURANGA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DU39/8,,Y,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BR57/R,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CJ71/N,,Y,North Auckland,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL70/449,,Y,Hutt / Wairarapa,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BS47/1,,N,Bay of Plenty/ East Coast,WHAKATANE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AC70/L,,Y,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DJ74/9,,Y,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DQ37/1,,Y,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HG61/14,,Y,Christchurch North,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL88/681,,Y,Tauranga,TAURANGA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GT64/1,,Y,North Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL90/910,,Y,Banks,ROLLESTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AA69/13,,N,South Auckland,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EF23/1,,,Northland,WARKWORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HK22/2,,N,Bay of Plenty/ East Coast,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DV45/39,,Y,North Waikato / Coromandel,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL80/804,,N,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN71/4,,Y,Banks,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL61/457,,Y,Eastern Suburbs,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GC49/20,,Y,North Auckland,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL90/379,,N,Hobsonville,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DR99/1,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM28/441,,Y,Hobsonville,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BN18/14,,Y,Hobsonville,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FF11/13,,Y,Marlborough / North Canterbury,RANGIORA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL37/758,,Y,North Auckland,RED BEACH,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BD23/2,,Y,South Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BM53/11,,N,Wellington Suburbs,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM08/594,,Y,South Auckland,PAPATOETOE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM29/463,,N,Banks,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,R121/48,,N,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL23/553,,N,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM05/594,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL53/903,,Y,Counties,PAPATOETOE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CT77/1,,Y,South Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM77/7,,Y,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP61/231,,Y,Marlborough / North Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,ES37/1,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CB38/A,,N,West Auckland,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GU25/3,,Y,Hobsonville,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM07/852,,N,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM14/662,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG23/3,,N,North Waikato / Coromandel,THAMES,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL91/242,,Y,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP56/892,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL08/31,,Y,Christchurch North,CHRISTCHURCH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GD72/10,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,S27/6,,N,South Canterbury,TIMARU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BN43/2,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GQ45/1,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FM29/1,,N,Manawatu,PARAPARAUMU,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EM25/5,,Y,Tamaki,REMUERA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP68/743,,Y,Banks,RICCARTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP56/178,,Y,Nelson,NELSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL48/628,,Y,North Waikato / Coromandel,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL76/867,,Y,Northland,WELLSFORD,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM21A/U,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BR54/G,,N,Wellington Central,WELLINGTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM05/348,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,X62/41,,Y,Grafton,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,Q21/7,,Y,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL24/696,,Y,Christchurch North,CHRISTCHURCH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DM22A/E,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL28/323,,N,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP58/291,,Y,Nelson,NELSON,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,D6/7,,Y,Central,TAUPO,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DG26/5,,Y,Auckland Central,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FT73/15,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GT33/1,,N,Counties,PAPAKURA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM19/604,,N,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP70/658,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EL60/15,,Y,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL34/242,,Y,North Auckland,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL43/987,,N,North Auckland,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL59/516,,N,Counties,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M24/16,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL62/521,,N,West Auckland,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,L18/17,,N,Hamilton,HAMILTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL43/826,,Y,South Canterbury,CROMWELL,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL99/219,,Y,Counties,PAPAKURA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AF64/30,,N,South Auckland,PAPATOETOE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,HQ76/7,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL59/657,,Y,Eastern Suburbs,PAPATOETOE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,I98/A,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL77/583,,N,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL63/829,,Y,Christchurch Central,CHRISTCHURCH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL76/847,,Y,North Auckland,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL84/761,,N,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GU70/2,,Y,Marlborough / North Canterbury,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL46/257,,Y,Eastern Suburbs,HOWICK,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL62/9,,Y,North Waikato / Coromandel,HAMILTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AV23/7,,Y,West Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GE37/1,,Y,Taranaki,NEW PLYMOUTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,FF62/D,,N,Otago,DUNEDIN CENT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M24/B,,N,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,M24/B,,N,Tauranga,TAURANGA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DN20/N,1624129336,N,Auckland Central,MAYORAL DRIVE,Y,
+,,,,,,,,,,,,,,,,,,,,,,,TL78/557,,Y,Wellington Central,WELLINGTON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP21/369,,Y,Tauranga,MT MAUNGANUI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL80/684,,Y,East Coast Bays,TORBAY,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM11/384,,Y,Eastern Suburbs,HOWICK,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL35/464,,N,Hutt / Wairarapa,FEATHERSTON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP21/292,,Y,North Waikato / Coromandel,TAURANGA,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM16/381,,Y,Hutt / Wairarapa,NAENAE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL94/131,,Y,Eastern Suburbs,PAPATOETOE,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM24/497,,Y,Northland,WARKWORTH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM05/432,,N,Auckland Central,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM09/318,,N,North Auckland,RED BEACH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL44/732,,Y,North Auckland,RED BEACH,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GS76/3,,N,North Auckland,HENDERSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,CALL SAC,,,,,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GJ26/5,,Y,Hawkes Bay,NAPIER,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM07/193,,N,Northland,KERIKERI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TP56/634,,Y,Nelson,NELSON,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,GU56/3,,Y,Counties,PAPAKURA,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BT11/1,,Y,North Waikato / Coromandel,,N,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TL57/135,,Y,Southland,QUEENSTOWN,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,EC08/D,,N,Northland,WHANGAREI,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DP04/AA,,N,North Shore,GLENFIELD,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM25/690,,Y,Manawatu,PALMERSTON NORTH,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,BU36/1,,Y,North Auckland,TORBAY,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,TM31/457,,Y,Hillsborough,MT ALBERT,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,AP45/4,,N,Nelson,NELSON,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DC20/29,,N,Grey Lynn,MAYORAL DRIVE,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,DJ78/7,,N,Wellington Suburbs,PORIRUA,Y,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UBS
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,UBS
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,BUBA

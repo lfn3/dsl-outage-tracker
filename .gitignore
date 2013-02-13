@@ -1,0 +1,6 @@
+venv
+logs
+*.sqlite
+*.swp
+*.pyc
+*.pyo

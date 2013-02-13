@@ -1,0 +1,36 @@
+{% extends "outage_list.html" %}
+{% block paginator %}
+<div class="row-fluid">
+    <div class="pagination pagination-right">
+        <ul>
+            <li {% if page_number - 1 < 1 %} class="disabled"><a href="#"><i
+                    class="icon-chevron-left"></i></a> {% else %}><a href="{{ url_for('outage_search_url',
+                page_number=page_number - 1, search_string = search_string)}}"><i
+                    class="icon-chevron-left"></i></a>{% endif %}</li>
+
+            {% if page_number - 2 > 0 %}<li><a href="{{ url_for('outage_search_url',
+                page_number=page_number - 2, search_string = search_string)}}">{{page_number - 2}}</a></li>{% endif %}
+
+            {% if page_number - 1 > 0 %}<li><a href="{{ url_for('outage_search_url',
+                page_number=page_number - 1, search_string = search_string)}}">{{page_number - 1}}</a></li>{% endif %}
+
+            <li class="active"><a href="#">{{page_number}}</a></li>
+
+            <li><a href="{{ url_for('outage_search_url',
+                page_number=page_number + 1, search_string = search_string)}}">{{page_number + 1}}</a></li>
+
+            <li><a href="{{ url_for('outage_search_url',
+                page_number=page_number + 2, search_string = search_string)}}">{{page_number + 2}}</a></li>
+
+            {% if not page_number - 2 > 0 %}<li><a href="{{ url_for('outage_search_url',
+                page_number=page_number + 3, search_string = search_string)}}">{{page_number + 3}}</a></li>{% endif %}
+
+            {% if not page_number - 1 > 0 %}<li><a href="{{ url_for('outage_search_url',
+                page_number=page_number + 4, search_string = search_string)}}">{{page_number + 4}}</a></li>{% endif %}
+
+            <li><a href="{{ url_for('outage_search_url',
+                page_number=page_number + 1, search_string = search_string)}}"><i class="icon-chevron-right"></i></a></li>
+        </ul>
+    </div>
+</div>
+{% endblock paginator %}
